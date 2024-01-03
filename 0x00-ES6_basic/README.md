@@ -3,6 +3,8 @@
 
 Welcome to the ES6 Basic repository! This collection of JavaScript code examples showcases various concepts and features of ES6 (ECMAScript 2015) syntax. Let's dive into the tasks and explore the power of ES6 together!
 
+![Alt Text](![08806026ef621f900121](https://github.com/Barniva/alx-backend-javascript/assets/123116734/3c2ed8b9-0829-47f9-9067-bd8fda90bd82)
+)
 ---
 
 ### Task 0: Const or let?
@@ -140,5 +142,13 @@ Iterate through an object and print its key-value pairs.
 
 ---
 
-Feel free to explore the code files and execute them to see the ES6 features inCertainly! Here's an updated version of the tasks section with added space for better readability:
 
+## RESOURCES
++ [x] [ECMAScript 6 - ECMAScript 2015](https://intranet.alxswe.com/rltoken/NW1dFLFExQ12_hD8yvkV3A)
++ [x] [Statements and declarations](https://intranet.alxswe.com/rltoken/sroRUsUvOZV28V99MHDenw)
++ [x] [Arrow functions](https://intranet.alxswe.com/rltoken/N2WLylppCtkkX3YFFtyUHw)
++ [x] [Default parameters](https://intranet.alxswe.com/rltoken/kbw9gMO6sdeOKAY23SYVgA)
++ [x] [Rest parameter](https://intranet.alxswe.com/rltoken/erZfCvacuGVk9z1CQlJvYQ)
++ [x] [Javascript ES6 — Iterables and Iterators](https://intranet.alxswe.com/rltoken/WlEqaX0Hm0SmKHDH9U_EBg)
+                                                                                                                
+                                                                                                                
