@@ -2,6 +2,8 @@
 
 This repository contains JavaScript code examples that demonstrate various concepts of ES6 (ECMAScript 2015) syntax and features.
 
+
+
 ## Tasks
 
 ### 0. Const or let?
