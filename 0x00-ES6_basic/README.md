@@ -3,9 +3,8 @@
 
 Welcome to the ES6 Basic repository! This collection of JavaScript code examples showcases various concepts and features of ES6 (ECMAScript 2015) syntax. Let's dive into the tasks and explore the power of ES6 together!
 
-![Alt Text](![08806026ef621f900121](https://github.com/Barniva/alx-backend-javascript/assets/123116734/3c2ed8b9-0829-47f9-9067-bd8fda90bd82)
-)
----
+![Alt Text](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2019/12/08806026ef621f900121.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240103%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240103T232949Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=d9156efd7d92ba7737a937e1e5c89013c654f2f7369047fd94f63ead6f3c4143)
+
 
 ### Task 0: Const or let?
 
