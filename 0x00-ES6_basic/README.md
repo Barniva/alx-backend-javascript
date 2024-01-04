@@ -3,7 +3,9 @@
 
 Welcome to the ES6 Basic repository! This collection of JavaScript code examples showcases various concepts and features of ES6 (ECMAScript 2015) syntax. Let's dive into the tasks and explore the power of ES6 together!
 
+
 ---
+
 ### Task 0: Const or let?
 
 Make your code more modern by updating the variable declarations from `var` to `const` and `let`.
