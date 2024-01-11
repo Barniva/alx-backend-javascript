@@ -1,7 +1,7 @@
 
 # ALX Backend JavaScript 🚀
 
-![JavaScript Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="100" height="100">
 
 Welcome to the **ALX Backend JavaScript** repository! This repository is dedicated to JavaScript backend development, a crucial aspect of web development. 
 
@@ -32,3 +32,6 @@ We welcome contributions from the community! Please read our [contributing guide
 
 ## License 📄
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+```
+
+Remember to replace `yourusername` with your actual GitHub username in the `git clone` command. Enjoy coding! 😊
