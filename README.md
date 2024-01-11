@@ -1,7 +1,7 @@
 
 # ALX Backend JavaScript 🚀
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="300" height="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="500" height="500">
 
 Welcome to the **ALX Backend JavaScript** repository! This repository is dedicated to JavaScript backend development, a crucial aspect of web development. 
 
