@@ -1,4 +1,3 @@
-Absolutely, let's make it more engaging:
 
 # 🐍 alx-backend-python: A Pythonic Adventure 🚀
 
