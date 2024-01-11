@@ -1,6 +1,6 @@
 # ALX Backend JavaScript :computer: :rocket:
 
-!Banner Image
+!JavaScript Logo
 
 Welcome to the **ALX Backend JavaScript** repository! This repository is a comprehensive resource for mastering backend development using JavaScript. It contains a collection of projects, exercises, and examples that cover a wide range of backend concepts and techniques[^1^][4].
 
@@ -42,5 +42,3 @@ Contributions are what make the open-source community such an amazing place to l
 This section should include the license for your project. For example:
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
