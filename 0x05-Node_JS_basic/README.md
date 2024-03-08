@@ -1,6 +1,5 @@
 
-![Node.js Logo](https://cdn.freebiesupply.com/logos/medium/2x/nodejs-1-logo-png-transparent.png)
-
+<img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" width="100">
 # Node.js Projects 🚀💻
 
 This repository contains a variety of Node.js scripts and servers, providing hands-on experience with core concepts. 
