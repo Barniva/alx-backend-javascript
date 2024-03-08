@@ -1,6 +1,5 @@
 
-
-![Node.js Logo](^1^)
+![Node.js Logo](https://commons.wikimedia.org/wiki/File:Node.js_logo.svg)
 
 # Node.js Projects 🚀💻
 
@@ -49,4 +48,4 @@ Read or watch:
 
 Master Node.js fundamentals and build production-ready web servers. Get hands-on practice with REST APIs, file I/O, performance optimizations, and more. 
 
-Feel free to reach out if you have any questions! 😄👍.
+Feel free to reach out if you have any questions! 😄👍
