@@ -1,4 +1,7 @@
 
+
+![Node.js Logo](^1^)
+
 # Node.js Projects 🚀💻
 
 This repository contains a variety of Node.js scripts and servers, providing hands-on experience with core concepts. 
@@ -46,4 +49,4 @@ Read or watch:
 
 Master Node.js fundamentals and build production-ready web servers. Get hands-on practice with REST APIs, file I/O, performance optimizations, and more. 
 
-Feel free to reach out if you have any questions! 😄👍
+Feel free to reach out if you have any questions! 😄👍.
