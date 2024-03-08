@@ -1,5 +1,5 @@
 
-![Node.js Logo](https://commons.wikimedia.org/wiki/File:Node.js_logo.svg)
+![Node.js Logo](https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png)
 
 # Node.js Projects 🚀💻
 
