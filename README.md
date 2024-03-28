@@ -5,13 +5,6 @@
 
 Welcome to the **ALX Backend JavaScript** repository! This repository is dedicated to JavaScript backend development, a crucial aspect of web development. 
 
-## Table of Contents 📚
-- [Introduction](#introduction)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction 📖
 This repository contains projects, exercises, and challenges related to backend development using JavaScript. It's a great resource for anyone looking to learn or improve their backend JavaScript skills.
 
@@ -27,8 +20,5 @@ npm install
 ## Usage 🖥️
 Each directory in this repository is a separate project. Navigate to the directory of the project you want to run, and follow the instructions in the project-specific README.
 
-## Contributing 🤝
-We welcome contributions from the community! Please read our [contributing guidelines](CONTRIBUTING.md) before getting started.
-
 ## License 📄
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
